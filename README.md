@@ -11,23 +11,24 @@ Provide insights into urban vs. rural accident distributions.
 
 Assist policymakers in making data-driven decisions to improve road safety
 
+
 # key insights 
-Total Casualties & Accidents:
+1. Total Casualties & Accidents:
   195.7K total casualties and 144.4K total accidents, with a decreasing trend from the previous year.
   Fatal casualties are significantly lower (-33.3%), indicating improved safety measures.
 
-Accidents by Vehicle Type:
- Cars account for the highest number of casualties (155,804).
+2. Accidents by Vehicle Type:
+ "Cars account for the highest number of casualties (155,804)".
  Bikes (15,610) and buses (6,573) also contribute significantly.
  
-Urban vs. Rural Distribution:
+ 3. Urban vs. Rural Distribution:
   Urban areas see 64.46% of casualties, while rural areas account for 35.5%.
 
-Accidents by Road Type:
-  Dual carriageways (21K accidents) and roundabouts (10K accidents) are major contributors.
+ 4. Accidents by Road Type:
+   "single carriage contribute(108K casulteis) higher in casualties" ,
+   where slip road contribute  with least casualties about 2k
 
-Accident Conditions:
+ 6. Accident Conditions:
   73.8% of accidents occur during the day, while 26.2% occur at night.
   
-Geospatial Insights:
-  Map visualization highlights accident-prone areas, mainly concentrated in urban regions.
+
